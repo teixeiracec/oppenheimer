@@ -1,5 +1,7 @@
-# oppenheimer
-Simulação em Python, desenvolvida para fins educacionais, baseada nas soluções das equações de campo gravitacional que descrevem o colapso de uma estrela quando suas fontes de energia termonuclear se esgotam (Oppenheimer JR & Snyder H (1939). On Continued Gravitational Contraction. Phys. Rev. 56, 455 – 59.).
+# Simulação computacional de colapso estelar: uma ferramenta para fins educacionais e de pesquisa em Física Teórica.
+# Cláudio Teixeira (CESUPA, Brasil)
+
+Ilustração de resultado de simulação em Python baseada em soluções das equações de campo gravitacional que descrevem o colapso de uma estrela quando suas fontes de energia termonuclear se esgotam (Oppenheimer JR & Snyder H (1939). On Continued Gravitational Contraction. Phys. Rev. 56, 455 – 59.).
 
 
 ![oppie](https://github.com/user-attachments/assets/176b9a50-b05a-4867-b749-ec77fce40b37)
