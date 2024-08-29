@@ -5,4 +5,4 @@ Simulação em Python, desenvolvida para fins educacionais, baseada nas soluçõ
 ![oppie](https://github.com/user-attachments/assets/176b9a50-b05a-4867-b749-ec77fce40b37)
 
 
-[Fonte: https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455)
+[Fonte: https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455](journals.aps.org/pr/abstract/10.1103/PhysRev.56.455)
