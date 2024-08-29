@@ -106,4 +106,4 @@ def update_graphs(mass, boundary_radius):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
