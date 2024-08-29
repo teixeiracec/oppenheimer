@@ -30,6 +30,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Remove 'Improve this page' link
+        run: |
+          # Example: remove link in layout file
+          sed -i '/Improve this page/d' _layouts/default.html
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
