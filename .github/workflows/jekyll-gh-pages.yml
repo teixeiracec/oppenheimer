@@ -12,7 +12,7 @@ on:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
-  pages: write
+  pages: false
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
@@ -32,7 +32,6 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Remove 'Improve this page' link
         run: |
-          # Example: remove link in layout file
           sed -i '/Improve this page/d' _layouts/default.html
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
