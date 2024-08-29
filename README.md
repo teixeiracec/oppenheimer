@@ -8,3 +8,4 @@ Ilustração de resultado de simulação em Python baseada em soluções das equ
 
 
 [Fonte: https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455](https://journals.aps.org/pr/pdf/10.1103/PhysRev.56.455)
+[Código: https://https://github.com/teixeiracec/oppenheimer](https://https://github.com/teixeiracec/oppenheimer/)
